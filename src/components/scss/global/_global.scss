@@ -1,0 +1,15 @@
+:root{
+    --firstCo: #e91e63;
+    --secondCo: #f4cbd3;
+}
+body{
+    background-color: #f4cbd3;
+}
+.v-toolbar__title {
+    font-size: 1.5rem !important;
+    color: var(--firstCo);
+}
+
+.eTitle {
+    color: var(--secondCo);
+}
